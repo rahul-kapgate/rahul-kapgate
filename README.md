@@ -58,6 +58,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-kapgate&show_icons=true&locale=en&layout=compact" alt="rahul-kapgate-pic" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-kapgate&show_icons=true&locale=en" alt="rahul-kapgate" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-kapgate&" alt="rahul-kapgate" /></p>
