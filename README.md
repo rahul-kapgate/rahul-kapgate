@@ -12,9 +12,10 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://x.com/Rahul__Kapgate" target="_main">
+ <a href="https://x.com/Rahul__Kapgate" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
+</a>
+
   <a href="https://linkedin.com/in/rahul-kapgate" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
