@@ -12,7 +12,7 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://twitter.com/rahul_kapgate_1" target="blank">
+  <a href="https://x.com/Rahul__Kapgate" target="_main">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/rahul-kapgate" target="blank">
