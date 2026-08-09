@@ -1,45 +1,72 @@
-<div align="center">
+# Hi, I'm Rahul Kapgate 👋
 
-  <h1>Hi 👋, I'm <span style="font-weight:700;">Rahul Kapgate</span></h1>
-  <h3>Software Engineer · Full-Stack Developer</h3>
+### Full Stack Developer | Software Engineer
 
-  <p>
-    Building clean, modern, and reliable web experiences.<br />
-  </p>
+Full Stack Developer focused on building production-ready web and mobile applications using React, TypeScript, Node.js, FastAPI, and PostgreSQL.
 
-  <!-- Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=rahul-kapgate&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/rahul-kapgate?label=Followers&style=social" alt="GitHub Followers" />
-  </p>
-
-  <p>
-    <a href="mailto:rahulkapgate03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-ef4444?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.linkedin.com/in/rahul-kapgate-970238250" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Kapgate-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-
-</div>
+I work across the stack — from responsive UI and reusable component systems to REST APIs, authentication, database design, integrations, and application performance.
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- ⚡ Full-stack engineer working with **React**, **Next.js**, **Node.js / FastAPI**, and **PostgreSQL / Supabase**
-- 🧪 Love designing and shipping **real-world products** – from exam prep platforms to internal tools and dashboards
-- 🏗️ Enjoy working end-to-end: **API design**, **database schema**, **auth flows**, and **clean, responsive UI/UX**
-- 🧠 Interested in **system design**, **performance optimization**, and building **maintainable, well-structured codebases**
-- 🤝 Open to collaborating on **ed-tech**, **developer tools**, and **data-driven web apps**
-- 🌱 Always improving my skills in **testing, architecture patterns**, and **developer experience (DX)**
+- 💻 Full Stack Developer.
+- ⚛️ Building applications with React.js, Next.js, TypeScript, and Tailwind CSS
+- 🔧 Developing backend services with Node.js, Express.js, FastAPI, and REST APIs
+- 🗄️ Working with PostgreSQL, MongoDB, and Supabase
+- 📱 Building cross-platform mobile applications using React Native and Expo
+- 🔐 Implementing authentication, authorization, OAuth, JWT, and role-based access control
+- ☁️ Working with AWS, Docker, Git, and GitHub
+- 🚀 Interested in scalable architecture, performance optimization, and clean code
 
 ---
 
-### 🛠️ Tech Snapshot
+## 🛠️ Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui  
-- **Backend:** Node.js (Express), FastAPI, REST APIs, authentication & authorization  
-- **Database & Infra:** PostgreSQL, Supabase, SQL, basic cloud & deployments  
-- **Other:** GitHub, CI/CD basics, design systems, component-driven development
+### Frontend
+React.js • Next.js • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS
+
+### Mobile
+React Native • Expo
+
+### Backend
+Node.js • Express.js • FastAPI • Python • REST APIs
+
+### Database
+PostgreSQL • MongoDB • Supabase • SQL
+
+### Authentication & Integrations
+JWT • Google OAuth • REST APIs • Razorpay • Resend
+
+### Cloud & DevOps
+AWS • EC2 • S3 • Docker • Git • GitHub
+
+---
+
+## 🔥 Featured Project
+
+### AV Art Academy
+
+**MAH AAC CET Coaching Platform**
+
+A full-stack education platform built for MAH AAC CET coaching, supporting students with:
+
+- Course enrollment and learning management
+- Video lectures and learning resources
+- Mock tests and PYQ practice
+- Timed assessments and automatic scoring
+- Google OAuth and JWT authentication
+- Role-based admin management
+- Razorpay payment and enrollment workflows
+- Responsive web application
+- React Native + Expo mobile application
+
+🌐 **Live:** https://artisticvickey.in/
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: https://rahul-kapgate.in
+- LinkedIn: https://linkedin.com/in/rahul-kapgate
+- GitHub: https://github.com/rahul-kapgate
