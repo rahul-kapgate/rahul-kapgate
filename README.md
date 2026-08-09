@@ -67,6 +67,6 @@ A full-stack education platform built for MAH AAC CET coaching, supporting stude
 
 ## 📫 Connect With Me
 
-- Portfolio: https://rahul-kapgate.in
+- Portfolio: https://rahulkapgate.in
 - LinkedIn: https://linkedin.com/in/rahul-kapgate
 - GitHub: https://github.com/rahul-kapgate
