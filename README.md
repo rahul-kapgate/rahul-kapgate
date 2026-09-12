@@ -41,29 +41,6 @@ JWT • Google OAuth • REST APIs • Razorpay • Resend
 ### Cloud & DevOps
 AWS • EC2 • S3 • Docker • Git • GitHub
 
----
-
-## 🔥 Featured Project
-
-### AV Art Academy
-
-**MAH AAC CET Coaching Platform**
-
-A full-stack education platform built for MAH AAC CET coaching, supporting students with:
-
-- Course enrollment and learning management
-- Video lectures and learning resources
-- Mock tests and PYQ practice
-- Timed assessments and automatic scoring
-- Google OAuth and JWT authentication
-- Role-based admin management
-- Razorpay payment and enrollment workflows
-- Responsive web application
-- React Native + Expo mobile application
-
-🌐 **Live:** https://artisticvickey.in/
-
----
 
 ## 📫 Connect With Me
 
