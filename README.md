@@ -4,8 +4,6 @@
 
 ### 🚀 Full Stack Developer | Building. Shipping. Improving.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Next.js+Developer;Node.js+%2B+FastAPI+Backend;Building+Production-Ready+Products;Always+Learning+%26+Shipping" />
-
 <br/>
 
 ### ⚡ Tech I Work With
